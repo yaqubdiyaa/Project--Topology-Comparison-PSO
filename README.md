@@ -24,6 +24,6 @@ You can run the program on command line using the following structure:
 
 ## Authors
 
+* *Diyaa Yaqub*
 * *Souleman Toure*
 * *Jigyasa Subedi*
-* *Diyaa Yaqub*
